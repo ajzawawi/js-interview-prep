@@ -16,12 +16,12 @@ Suggested answers are
 1. [Contributors](#contributors)
 
 ###General Questions
-* Is JavaScript block-scoped or function scoped?
+* [Is JavaScript block-scoped or function scoped?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/general/function-or-block-scope.md)
 
 
 ### ES6
 
-* What is the Temporal Dead Zone?
+* [What is the Temporal Dead Zone?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/es6/temporal-dead-zone.md)
 
 
 #Contributors
