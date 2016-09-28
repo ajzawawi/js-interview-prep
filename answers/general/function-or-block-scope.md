@@ -1,0 +1,1 @@
+#Is JavaScript block-scoped or function scoped?
