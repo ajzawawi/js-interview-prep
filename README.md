@@ -9,6 +9,7 @@ Suggested answers are
 
 1. [General Questions](#general-questions)
 1. [ES6](#es6)
+1. [Tricky Questions](#tricky-questions)
 
 
 ##Getting Involved
@@ -22,6 +23,10 @@ Suggested answers are
 ### ES6
 
 * [What is the Temporal Dead Zone?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/es6/temporal-dead-zone.md)
+
+#### Tricky Questions
+* What is the value of `console.log(+'meow')`? Explain your answer.
+* What does `3 instanceof Number` evaluate to? True or false? Explain your answer.
 
 
 #Contributors
