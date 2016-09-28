@@ -7,17 +7,16 @@ Suggested answers are
 
 ##Table of Contents
 
-1. General Questions(#general-questions)
-1. ES6(#es6)
+1. [General Questions](#general-questions)
+1. [ES6](#es6)
 
 
 ##Getting Involved
 
-1. Contributors (#contributors)
+1. [Contributors](#contributors)
 
 ###General Questions
 * Is JavaScript block-scoped or function scoped?
-
 
 
 ### ES6
