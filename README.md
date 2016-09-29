@@ -25,8 +25,8 @@ Suggested answers are
 * [What is the Temporal Dead Zone?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/es6/temporal-dead-zone.md)
 
 ### Tricky Questions
-* [What is the value of `console.log(+'meow')`? Explain your answer.](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/tricky/unary-operator.md)
-* [What does `3 instanceof Number` evaluate to? True or false? Explain your answer.](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/tricky/primitive-values.md)
+* [What is the value of `console.log(+'meow')`? Explain your answer.](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/tricky/unaryOperator.md)
+* [What does `3 instanceof Number` evaluate to? True or false? Explain your answer.](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/tricky/primitiveValues.md)
 
 
 #Contributors
