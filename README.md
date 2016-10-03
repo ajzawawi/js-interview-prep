@@ -10,7 +10,7 @@ Suggested answers are
 1. [General Questions](#general-questions)
 1. [ES6](#es6)
 1. [Tricky Questions](#tricky-questions)
-1. [Best Practices & Optimization](#best-practices)
+1. [Best Practices & Optimization](#best-practices--optimization)
 
 
 ## Getting Involved
