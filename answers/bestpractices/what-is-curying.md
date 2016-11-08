@@ -8,6 +8,7 @@ Currying is when you partial invoke a function, but not with all of it's argumen
 
 Consider the following.
 
+```javascript
 // es6!!
 var add = (a, b) => {
   return a + b
@@ -20,5 +21,6 @@ var add2 = (c) => {
 
 // returns 6
 add2(4)
+```
 
 Currying lets you create library of easily configured functions and also helps with keeping code D.R.Y.

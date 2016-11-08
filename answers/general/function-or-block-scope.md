@@ -8,6 +8,7 @@ Block-scoped exists when a declared variable has inside a block of code (usually
 
 Consider the following.
 
+```javascript
 var testFunc() {
 
   // var is defined in the this for loop block
@@ -18,5 +19,6 @@ var testFunc() {
   // logs 10 - printed is defined outside of block
   console.log(printed)
 }
+```
 
 Thus Javscript is function scoped.
