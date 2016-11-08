@@ -21,3 +21,4 @@ var add2 = (c) => {
 // returns 6
 add2(4)
 
+Currying lets you create library of easily configured functions and also helps with keeping code D.R.Y.
