@@ -35,7 +35,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 ### Best Practices & Optimization
 * [Why is eval() considered evil and dangerous?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/eval-dangerous.md)
 * [What is meant by 'repaint and reflow'? How does it affect your application?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/repaint-reflow.md)
-* [What is currying?](hanswers/bestpractices/what-is-currying.md)
+* [What is currying?](answers/bestpractices/what-is-currying.md)
 
 #Contributors
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
