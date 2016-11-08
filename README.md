@@ -18,7 +18,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 
 ### General Questions
 * [Is JavaScript block-scoped or function scoped?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/general/function-or-block-scope.md)
-* [Is JavaScript a compiled or interpreted language?]()
+* [Is JavaScript a compiled or interpreted language?](answers/general/function-or-block-scope.md)
 
 
 ### ES6
@@ -35,6 +35,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 ### Best Practices & Optimization
 * [Why is eval() considered evil and dangerous?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/eval-dangerous.md)
 * [What is meant by 'repaint and reflow'? How does it affect your application?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/repaint-reflow.md)
+* [What is currying?](hanswers/bestpractices/what-is-currying.md)
 
 #Contributors
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
