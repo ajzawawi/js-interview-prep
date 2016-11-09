@@ -26,6 +26,8 @@ Suggested answers along with relevant resources are posted in the answers folder
 ### Browser & DOM
 * [What are the differences between window and document in the browser?]()
 * [What is a host object? How is it different from a native object?]()
+* [What is the difference between event bubbling and event capturing?]()
+* [What is browser detection? How is it different from feature detection? Give examples of when you would use them.]()
 
 ### ES6
 
@@ -51,6 +53,8 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [What is currying?](answers/bestpractices/what-is-currying.md)
 * [What's the difference between (visibility: hidden) and (display: none)? Which is better for your website's performance?]()
 * [What are memory leaks? What are the most common leaks in your JS code?]()
+* [What are the differences between graceful degradation and progressive enhancement? Can you give examples?]()
+*
 
 #Contributors
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
