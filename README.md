@@ -7,6 +7,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 ## Table of Contents
 
 1. [General Questions](#general-questions)
+1. [Browser & DOM](#browser--dom)
 1. [ES6](#es6)
 1. [Tricky Questions](#tricky-questions)
 1. [Best Practices & Optimization](#best-practices--optimization)
@@ -19,7 +20,14 @@ Suggested answers along with relevant resources are posted in the answers folder
 ### General Questions
 * [Is JavaScript block-scoped or function scoped?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/general/function-or-block-scope.md)
 * [Is JavaScript a compiled or interpreted language?](answers/general/function-or-block-scope.md)
+* [What is a thunk in Javascript?]()
+* [Are there any differences between a thunk and a promise?]()
+* [What is object serialization and deserialization. Give examples.]()
+* [Does JavaScript use mixins?]()
 
+### Browser & DOM
+* [What are the differences between window and document in the browser?]()
+* [What is a host object? How is it different from a native object?]()
 
 ### ES6
 
@@ -36,6 +44,8 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [Why is eval() considered evil and dangerous?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/eval-dangerous.md)
 * [What is meant by 'repaint and reflow'? How does it affect your application?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/bestpractices/repaint-reflow.md)
 * [What is currying?](answers/bestpractices/what-is-currying.md)
+* [What's the difference between (visibility: hidden) and (display: none)? Which is better for your website's performance?]()
+* [What are memory leaks? What are the most common leaks in your JS code?]()
 
 #Contributors
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
