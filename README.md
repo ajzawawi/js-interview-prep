@@ -21,6 +21,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [Is JavaScript block-scoped or function scoped?](https://github.com/ajzawawi/js-interview-prep/blob/master/answers/general/function-or-block-scope.md)
 * [Is JavaScript a compiled or interpreted language?](answers/general/function-or-block-scope.md)
 * [What is function hoisting? Provide some examples where it can be good or bad.](answers/general/function-hoisting.md)
+* [What is type coercion and when is it useful or dangerous.](answers/general/what-is-type-coercion.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 
