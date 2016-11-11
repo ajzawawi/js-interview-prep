@@ -40,7 +40,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 ### Functional & Asynchronous Programming
 
 * [What is a generator?]()
-* [What is a thunk in Javascript?]()
+* [What is a thunk in Javascript?](answers/functional-asynch/what-is-a-thunk.md)
 * [Are there any differences between a thunk and a promise?]()
 
 ### Tricky Questions

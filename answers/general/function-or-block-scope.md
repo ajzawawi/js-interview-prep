@@ -26,7 +26,7 @@ testFunc()
 
 Thus Javscript is function scoped.
 
-# Or Not! It's a trick question!!!
+## Or Not! It's a trick question!!!
 
 With the introduction of ES6, const and let has been introduced as ways to declare/assign variables. Consider the following.
 
