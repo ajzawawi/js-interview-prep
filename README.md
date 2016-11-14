@@ -22,6 +22,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [Is JavaScript a compiled or interpreted language?](answers/general/function-or-block-scope.md)
 * [What is function hoisting? Provide some examples where it can be good or bad.](answers/general/function-hoisting.md)
 * [What is type coercion and when is it useful or dangerous.](answers/general/what-is-type-coercion.md)
+* [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 
