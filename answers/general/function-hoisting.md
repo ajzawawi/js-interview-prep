@@ -16,7 +16,7 @@ var a = "hello"
 console.log(a)
 ````
 
-Behind the seens 'var a' is hoisted to the top. It is not declared, and so remains undefined, but no longer has a reference error.
+Behind the scenes 'var a' is hoisted to the top. It is not declared, and so remains undefined, but no longer has a reference error.
 
 Similarly, if a function is declared via functional declaration (using the keyword function) it is hoisted to the top. (However since the syntax of function delcaration has no assignment, the body of the function is hoisted.)
 
