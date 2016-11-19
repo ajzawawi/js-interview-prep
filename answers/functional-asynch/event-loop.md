@@ -28,7 +28,7 @@ def eat_before_swim(some_action)
 end
 
 eat_before_swim('I ate some pizza!')
-// After 1s logs 'I ate some pizza!', then logs 'Time for a swim!
+# After 1s logs 'I ate some pizza!', then logs 'Time for a swim!
 ```
 
 While the code is not equivalent, the concept to get across is that in Ruby the sleep action is blocking things from moving forward. Similar behavior is experienced with http requests. So the subsequent lines will not be evaluated and run until the previous line is complete.
