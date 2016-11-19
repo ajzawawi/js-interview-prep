@@ -50,6 +50,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [What is a callback?](answers/functional-asynch/what-is-a-callback.md)
 * [What is a generator?]()
 * [What is a thunk in Javascript?](answers/functional-asynch/what-is-a-thunk.md)
+* [What is the event loop in Javascript? How does this differ/compare to some other languages?](answers/functional-asynch/event-loop.md)
 * [Are there any differences between a thunk and a promise?]()
 
 ### Tricky Questions
