@@ -26,6 +26,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [What is function hoisting? Provide some examples where it can be good or bad.](answers/general/function-hoisting.md)
 * [What is type coercion and when is it useful or dangerous.](answers/general/what-is-type-coercion.md)
 * [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
+* [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
@@ -49,6 +50,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [What is a callback?](answers/functional-asynch/what-is-a-callback.md)
 * [What is a generator?]()
 * [What is a thunk in Javascript?](answers/functional-asynch/what-is-a-thunk.md)
+* [What is the event loop in Javascript? How does this differ/compare to some other languages?](answers/functional-asynch/event-loop.md)
 * [Are there any differences between a thunk and a promise?]()
 
 ### Tricky Questions
