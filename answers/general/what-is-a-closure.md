@@ -41,10 +41,10 @@ var someMoreFunc = awFunc('awe') // At this point awFunc has finished running
 
 someMoreFunc('somer') // returns awesomer
 // I still have access to variables of awFunc event after it's finished running
-// Similar to [currying](answers/bestpractices/what-is-currying.md)
 ```
 
 So one obvious advantage is to allow for separation of concerns when writing code. This become extremely useful when considering asynchronous code.
 
+Related topic includes [currying](answers/bestpractices/what-is-currying.md).
 
 
