@@ -92,6 +92,7 @@ This repo was originally forked from [ajzawawi/js-interview-prep](https://github
 * [What is a pub/sub pattern? Does Redux follow this pattern?]()
 
 #Contributors
+
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
 
 Contributors: [Daniel Chang](https://github.com/dan-h-ch)
