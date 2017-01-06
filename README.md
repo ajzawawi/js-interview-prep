@@ -2,7 +2,7 @@
 
 This repo contains a number of JavaScript interview questions that can be used for interview prep or when vetting potential candidates.
 
-Suggested answers along with relevant resources are posted in the answers folder.
+Some suggested answers are provided along with relevant resources are posted in the answers folder. You can also submit answers to questions as a contributor.
 
 ## Table of Contents
 
@@ -15,6 +15,8 @@ Suggested answers along with relevant resources are posted in the answers folder
 1. [Algorithms & Data Structures](#algorithms--data-structures)
 1. [CSS & UI](#css--ui)
 1. [React & Redux](#react--redux)
+1. [Angular](#angular)
+1. [Angular2](#angular2)
 
 ## Getting Involved
 
@@ -32,7 +34,8 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
 * [What is reflection? Can you give examples of reflect methods you've used in the past?]()
-* [What is a symbol in JavaScript? Is it a primitive? What's a typical use case for a symbol in ES6?]()
+* [What is the V8 engine?  Is the V8 engine written in JavaScript?]()
+* [CommonJS vs AMD vs ES2015, what are the differences and which one do you prefer and why?]()
 
 ### Browser & DOM
 * [What are the differences between window and document in the browser?]()
@@ -46,6 +49,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 * [What is the Temporal Dead Zone?](answers/es6/temporal-dead-zone.md)
 * [Arrow functions are cool in ES6. When should you NOT use arrow functions. Name three or more cases.](answers/es6/when-not-to-use-arrow-functions.md)
 * [What is a trampolined function? What is it used for? Will we still need this technique with ES6?]()
+* [What is a symbol in JavaScript? Is it a primitive? What's a typical use case for a symbol in ES6?]()
 
 ### Functional & Asynchronous Programming
 * [What is a callback?](answers/functional-asynch/what-is-a-callback.md)
@@ -82,4 +86,5 @@ Suggested answers along with relevant resources are posted in the answers folder
 
 #Contributors
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
+
 Contributors: [Daniel Chang](https://github.com/dan-h-ch)
