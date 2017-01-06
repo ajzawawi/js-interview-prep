@@ -21,6 +21,7 @@ Suggested answers along with relevant resources are posted in the answers folder
 1. [Contributors](#contributors)
 
 ### General Questions
+* [What is a closure?](answers/general/what-is-a-closure.md)
 * [Is JavaScript block-scoped or function scoped?](answers/general/function-or-block-scope.md)
 * [Is JavaScript a compiled or interpreted language?](answers/general/function-or-block-scope.md)
 * [What is function hoisting? Provide some examples where it can be good or bad.](answers/general/function-hoisting.md)
