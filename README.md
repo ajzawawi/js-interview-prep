@@ -2,7 +2,7 @@
 
 This repo contains a number of JavaScript interview questions that can be used for interview prep or when vetting potential candidates.
 
-Some suggested answers are provided along with relevant resources are posted in the answers folder. You can also submit answers to questions as a contributor.
+Some suggested answers along with relevant resources are posted in the answers folder. You can also submit answers to questions as a contributor.
 
 ## Table of Contents
 
