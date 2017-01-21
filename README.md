@@ -7,6 +7,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 ## Table of Contents
 
 1. [General Questions](#general-questions)
+1. [Architecture & Patterns](#architecture--patterns)
 1. [Browser & DOM](#browser--dom)
 1. [ES6](#es6)
 1. [Functional & Asynchronous Programming](#functional--asynchronous-programming)
@@ -37,6 +38,9 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is the V8 engine?  Is the V8 engine written in JavaScript?]()
 * [CommonJS vs AMD vs ES2015, what are the differences and which one do you prefer and why?]()
 
+### Architecture & Patterns
+* [What is fault tolerance? How can you improve your app's fault tolerance?]()
+
 ### Browser & DOM
 * [What are the differences between window and document in the browser?]()
 * [What is a host object? How is it different from a native object?]()
@@ -50,6 +54,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [Arrow functions are cool in ES6. When should you NOT use arrow functions. Name three or more cases.](answers/es6/when-not-to-use-arrow-functions.md)
 * [What is a trampolined function? What is it used for? Will we still need this technique with ES6?]()
 * [What is a symbol in JavaScript? Is it a primitive? What's a typical use case for a symbol in ES6?]()
+* [What is the difference between Map and WeakMap in ES6?]()
 
 ### Functional & Asynchronous Programming
 * [What is a callback?](answers/functional-asynch/what-is-a-callback.md)
