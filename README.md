@@ -33,6 +33,7 @@ This repo was originally forked from [ajzawawi/js-interview-prep](https://github
 * [What is type coercion and when is it useful or dangerous.](answers/general/what-is-type-coercion.md)
 * [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
 * [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
+* [What is the difference between encryption and hashing?](answers/general/encryption-vs-hashing.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
