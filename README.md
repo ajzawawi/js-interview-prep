@@ -70,6 +70,7 @@ This repo was originally forked from [ajzawawi/js-interview-prep](https://github
 * [What is the value of `console.log(+'meow')`? Explain your answer.](answers/tricky/unary-operator.md)
 * [What does `3 instanceof Number` evaluate to? True or false? Explain your answer.](answers/tricky/primitive-values.md)
 * [Why is my import statement not working in the browser?](answers/tricky/import-statements-browser.md)
+* [What is the difference between an array literal and condensed arrays?](answers/tricky/array-literal-vs-condensed.md)
 * [What does it mean to "hydrate" an object in JavaScript?]()
 
 ### Best Practices & Optimization
