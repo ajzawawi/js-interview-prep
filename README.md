@@ -32,6 +32,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
 * [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
 * [What is the difference between encryption and hashing?](answers/general/encryption-vs-hashing.md)
+* [Is Javascript static or dnyamic? Is it strong or weak type?](answers/general/javascript-type.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
