@@ -31,6 +31,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is type coercion and when is it useful or dangerous.](answers/general/what-is-type-coercion.md)
 * [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
 * [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
+* [What is the difference between encryption and hashing?](answers/general/encryption-vs-hashing.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
@@ -67,6 +68,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is the value of `console.log(+'meow')`? Explain your answer.](answers/tricky/unary-operator.md)
 * [What does `3 instanceof Number` evaluate to? True or false? Explain your answer.](answers/tricky/primitive-values.md)
 * [Why is my import statement not working in the browser?](answers/tricky/import-statements-browser.md)
+* [What is the difference between an array literal and condensed arrays?](answers/tricky/array-literal-vs-condensed.md)
 * [What does it mean to "hydrate" an object in JavaScript?]()
 
 ### Best Practices & Optimization
@@ -90,6 +92,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is a pub/sub pattern? Does Redux follow this pattern?]()
 
 #Contributors
+
 This repo is currently maintained by [AJ Zawawi](https://github.com/ajzawawi)
 
 Contributors: [Daniel Chang](https://github.com/dan-h-ch)
