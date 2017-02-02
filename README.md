@@ -32,6 +32,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is the difference between == and ===.](answers/general/double-equal-vs-triple-equal.md)
 * [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
 * [What is the difference between encryption and hashing?](answers/general/encryption-vs-hashing.md)
+* [Is Javascript static or dnyamic? Is it strong or weak type?](answers/general/javascript-type.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
@@ -62,6 +63,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is a generator?]()
 * [What is a thunk in Javascript?](answers/functional-asynch/what-is-a-thunk.md)
 * [What is the event loop in Javascript? How does this differ/compare to some other languages?](answers/functional-asynch/event-loop.md)
+* [What is a race condition?]()
 * [Are there any differences between a thunk and a promise?]()
 
 ### Tricky Questions
@@ -75,6 +77,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [Why is eval() considered evil and dangerous?](answers/bestpractices/eval-dangerous.md)
 * [What is meant by 'repaint and reflow'? How does it affect your application?](answers/bestpractices/repaint-reflow.md)
 * [What is currying?](answers/bestpractices/what-is-currying.md)
+* [In TDD what is difference between a spy, mock, and stub?](answers/bestpractices/tdd-spy-mock-stub.md)
 * [What's the difference between (visibility: hidden) and (display: none)? Which is better for your website's performance?]()
 * [What are memory leaks? What are the most common leaks in your JS code?]()
 * [What are the differences between graceful degradation and progressive enhancement? Can you give examples?]()
