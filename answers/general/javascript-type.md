@@ -16,4 +16,4 @@ var a = "string"
 a = 3 // this is allowed
 ```
 
-Additionally, [type coercion](what-is-type-coercion.md) can occured because Javascript is weekly typed. If it were not, type coercion would not be possible.
+Additionally, [type coercion](what-is-type-coercion.md) can occured because Javascript is weakly typed. If it were not, type coercion would not be possible.

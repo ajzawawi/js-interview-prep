@@ -16,9 +16,9 @@ A spy is typically used to gather information about function calls. In essence, 
 
 ### What's a stub?
 
-A stub is a function that replaces another function completedly. Instead of only hijacking and adding properties, it completed replaces the function. Stubs are useful when you want to guarantee a specific response. For example, our AJAX call needs to get a specific response, but it's possible the endpoint is not up and running, in this case we could use a stub.
+A stub is a function that replaces another function completely. Instead of only hijacking and adding properties, it completed replaces the function. Stubs are useful when you want to guarantee a specific response. For example, our AJAX call needs to get a specific response, but it's possible the endpoint is not up and running, in this case we could use a stub.
 
 ### What's a mock?
 
-Mocks are very similat to subs, but are primarily useful if you want to sub more than on function on a given object. Instead of replacing functions, you can mock and entire object.
+Mocks are very similar to subs, but are primarily useful if you want to sub more than on function on a given object. Instead of replacing functions, you can mock an entire object.
 
