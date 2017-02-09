@@ -33,6 +33,7 @@ Some suggested answers along with relevant resources are posted in the answers f
 * [What is the difference between call, apply, and bind?](answers/general/call-apply-bind.md)
 * [What is the difference between encryption and hashing?](answers/general/encryption-vs-hashing.md)
 * [Is JavaScript static or dnyamic? Is it strongly or weakly type?](answers/general/javascript-type.md)
+* [What is the difference between progressive enhancement versus graceful degradation?](answers/general/progressive-enhancement-graceful-degradation.md)
 * [What is object serialization and deserialization. Give examples.]()
 * [Does JavaScript use mixins?]()
 * [What is tree shaking in JavaScript?]()
